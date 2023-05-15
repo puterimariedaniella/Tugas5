@@ -65,7 +65,7 @@ if(isset($_POST["register"])){
                                         </div>
 
                                         <div class="d-flex align-items-center justify-content-between mt-4 mb-0">
-                                            <button type="submit" name="register" class="btn btn-primary">Create</button>
+                                            <button type="submit" name="register" class="btn btn-primary">Sign up</button>
                                         </div>
                                     </form>
                                 </div>
